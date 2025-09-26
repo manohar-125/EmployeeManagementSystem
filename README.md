@@ -1,4 +1,4 @@
-# EmployeeManagementSystem
+# HR Master
 
 A simple desktop-based Java Swing application to manage employee records with secure login functionality.
 

@@ -16,7 +16,7 @@ public class Main_Class extends JFrame {
         img.setBounds(0, 0, 1120, 630);
         add(img);
 
-        JLabel heading = new JLabel("Employee Management System");
+        JLabel heading = new JLabel("HR Master");
         heading.setBounds(330, 155, 400, 40);
         heading.setFont(new Font("Raleway", Font.BOLD, 25));
         img.add(heading);
